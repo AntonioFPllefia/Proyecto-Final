@@ -68,8 +68,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 500px;
   font-size: 35px;
+  background-color: #FFBE98;
   border: #050505 solid;
 }
 
