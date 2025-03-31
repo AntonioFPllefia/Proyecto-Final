@@ -1,32 +1,40 @@
-body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  margin: 0;
-  padding: 0;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
 }
 
-h1 {
-  display: flex;
-  justify-content: center;
+img{
+    width: 485px;
 }
 
-h2 {
-  display: flex;
-  justify-content: center;
+.barra-lateral{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: #333;
+    color: white;
+    height: 100vh;
+    position: fixed;
+    padding-top: 20px;
 }
 
-p {
-  display: flex;
-  justify-content: center;
+.barra-lateral a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    transition: background 0.3s;
 }
 
-.header {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  padding: 30px;
+.barra-lateral a:hover{
+    background: #575757;
 }
-.menu¨{
-  display: flex;
-  flex-direction: row;
 
+.Explicacion{
+    padding-left: 215px;
+    width: 500px;
+    height: 144px;
 }
+
