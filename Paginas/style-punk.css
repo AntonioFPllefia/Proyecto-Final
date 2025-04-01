@@ -4,7 +4,31 @@ body{
     padding: 0;
 }
 
-.header{
+aside{
+    display: flex;
+    justify-content: start;
+}
+
+aside nav ul{
+    background-color: gray;
+    padding: 30px;
+
+}
+
+aside nav ul li{
+    list-style: none;
+}
+
+aside a{
+
+}
+
+aside a:hover{
+    background-color: lightgray;
+
+}
+
+main p{
     display: flex;
     justify-content: center;
 }
