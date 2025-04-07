@@ -14,10 +14,12 @@ body {
   padding: 30px;
 }
 
-.header-2{
+.container{
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #92A8D1;
+  height: 1000px;
 }
 
 .lista nav ul {
@@ -29,6 +31,11 @@ body {
 
 .lista nav ul li {
   list-style: none;
+}
+
+.lista nav ul li a{
+  display: flex;
+  justify-content: center;
 }
 
 .menu {
