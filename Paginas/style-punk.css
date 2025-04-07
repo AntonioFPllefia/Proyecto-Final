@@ -19,7 +19,7 @@ aside nav ul {
   padding: 30px;
   width: 80%;
   height: 100vh;
-  margin:  0;
+  margin: 0;
 }
 
 aside nav ul li {
@@ -63,10 +63,22 @@ button {
   gap: 60px;
 }
 
+.Explicaciones-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 200px;
+  gap: 60px;
+}
+
 .Card {
   border: 2px solid black;
 }
 
 .Card-2 {
+  border: 2px solid black;
+}
+
+.Card-3 {
   border: 2px solid black;
 }
