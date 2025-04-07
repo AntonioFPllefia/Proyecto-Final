@@ -6,9 +6,7 @@ body {
 }
 
 .header {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+  
 }
 
 .lista nav ul {
