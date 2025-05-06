@@ -1,0 +1,240 @@
+body {
+  font-family: "ProximaNova", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.main h1{
+  display: flex;
+  justify-content: center;
+}
+
+.main p{
+  display: flex;
+  justify-content: start;
+  padding-left: 50px;
+  width: 350px;
+}
+
+.Explicacion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  background-color: #92a8d1;
+  height: 50px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.header-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Inicio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #d65076;
+  padding: 150px;
+}
+
+.Generos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #5b5ea6;
+  padding: 150px;
+}
+
+.container-2{
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  padding: 15px;
+  width: 100px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+
+.header nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+}
+
+.header nav ul li {
+  list-style: none;
+}
+
+.lista nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+}
+
+.lista nav ul li {
+  list-style: none;
+}
+
+.lista nav ul li a {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.Lista-2 nav ul {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  height: 1000px;
+  width: 150px;
+}
+
+.Lista-2 nav ul li {
+  color: white;
+  list-style: none;
+  width: 100%;
+  padding: 30px;
+  background-color: azure;
+}
+
+.Lista-2 nav ul li:hover {
+  background-color: burlywood;
+  transition-duration: 0, 3s;
+}
+
+.Lista-2 nav ul li a {
+  text-decoration: none;
+}
+
+.Lista-3 nav ul {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  height: 1000px;
+  width: 150px;
+}
+
+.Lista-3 nav ul li {
+  color: white;
+  list-style: none;
+  width: 100%;
+  padding: 30px;
+  background-color: azure;
+}
+
+.Lista-3 nav ul li:hover{
+  background-color: burlywood;
+  transition-duration: 0, 3s;
+}
+
+.Lista-3 nav ul li a{
+  text-decoration: none;
+}
+
+.Lista-4 nav ul{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  height: 1000px;
+  width: 150px;
+}
+
+.Lista-4 nav ul li{
+  color: white;
+  list-style: none;
+  width: 100%;
+  padding: 30px;
+  background-color: azure;
+}
+
+.Lista-4 nav ul li:hover{
+  background: burlywood;
+  transition-duration: 0, 3s;
+}
+
+.Lista-4 nav ul li a{
+  text-decoration: none;
+}
+
+.caja-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja{
+  width: 250px;
+  height: 250px;
+  box-shadow: -2px 2px 19px 0px rgba(0,0,0,0.75);
+  color: black;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: flex-end; 
+  align-items: center; 
+  background-color: white;
+}
+
+.caja img{
+  width: 200px;
+}
+
+.cajita-main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+
+}
+
+.cajita-main2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  gap: 20px;
+
+}
+
+.cajita-magica {
+  width: 250px;
+  height: 250px;
+  box-shadow: -2px 2px 19px 0px rgba(0,0,0,0.75);
+  color: black;
+  display: flex; 
+  flex-direction: column; 
+  justify-content: flex-end; 
+  align-items: center; 
+  background-color: white;
+}
+
+.cajita-magica img{
+  width: 200px;
+}
+
+.texto-magico{
+  text-align: center;
+  font-size: 20px;
+  flex-direction: column;
+}
