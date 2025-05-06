@@ -24,15 +24,11 @@ main {
   
   }
 
-.main h1{
-  display: flex;
-  justify-content: center;
-}
-
 .main p{
   display: flex;
   justify-content: start;
   padding-left: 250px;
+  padding-top: 85px;
   width: 350px;
 }
 
@@ -49,11 +45,12 @@ main {
 
 .explicacion-movida p{
   width: 300px;
-  padding-left: 235px;
+  padding-left: 350px;
 }
 
 .explicacion-movida img{
   width: 450px;
+  padding-left: 750px;
 }
 
 .header {
