@@ -19,7 +19,7 @@ main {
 .main p{
   display: flex;
   justify-content: start;
-  padding-left: 50px;
+  padding-left: 250px;
   width: 350px;
 }
 
