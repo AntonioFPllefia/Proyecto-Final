@@ -79,6 +79,11 @@ main {
   align-items: center;
 }
 
+.titulo-bandas{
+  display: flex;
+  justify-content: center;
+}
+
 .header {
   background-color: #92a8d1;
   height: 50px;
