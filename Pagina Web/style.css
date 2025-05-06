@@ -68,6 +68,12 @@ main {
   justify-content: center;
 }
 
+.seccion-img {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 button {
   padding: 15px;
   width: 100px;
