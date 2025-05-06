@@ -53,6 +53,25 @@ main {
   padding-left: 750px;
 }
 
+.Explicacion-RRV h1{
+  display: flex;
+  justify-content: center;
+}
+
+.Explicacion-RRV img{
+  width: 450px;
+  padding-left: 755px;
+}
+
+.text-RRV{
+  width: 250px;
+  padding-left: 350px;
+}
+
+.text-2{
+  width: 250px;
+  padding-left: 1350px;
+}
 
 .header {
   background-color: #92a8d1;
