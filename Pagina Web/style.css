@@ -11,6 +11,11 @@ img{
   justify-content: center;
 }
 
+.video{
+  display: flex;
+  justify-content: center;
+}
+
 .container{
     background-color: black;
     color: white;
@@ -282,6 +287,14 @@ button {
 }
 
 .caja-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-3{
   display: flex;
   justify-content: center;
   align-items: center;
