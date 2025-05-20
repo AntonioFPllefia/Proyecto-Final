@@ -169,11 +169,31 @@ iframe{
   width: 500px;
 }
 
+.Explicacion-Metal{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .generos-punk{
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 30px;
+}
+
+.generos-metal{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.generos-metal p{
+    width: 400px;
+}
+
+.generos-metal img{
+  width: 400px;
 }
 
 .generos-punk button{
@@ -458,6 +478,14 @@ iframe{
 }
 
 .caja-12{
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-13{
   display:  flex;
   justify-content: center;
   align-items: center;
