@@ -11,6 +11,11 @@ img{
   justify-content: center;
 }
 
+iframe{
+  display: flex;
+  justify-content: center;
+}
+
 .video{
   display: flex;
   justify-content: center;
@@ -104,6 +109,12 @@ img{
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.Post-Hardcore h3{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .text-RRV{
