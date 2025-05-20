@@ -350,6 +350,14 @@ iframe{
   gap: 20px;
 }
 
+.caja-7{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
 .caja{
   width: 250px;
   height: 250px;
