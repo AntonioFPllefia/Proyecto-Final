@@ -6,17 +6,18 @@ body {
   padding: 0;
 }
 
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 img{
   display: flex;
   justify-content: center;
 }
 
 iframe{
-  display: flex;
-  justify-content: center;
-}
-
-.video{
   display: flex;
   justify-content: center;
 }
@@ -189,7 +190,7 @@ iframe{
   align-items: center;
 }
 
-button {
+.boton {
   padding: 15px;
   width: 100px;
   margin-bottom: 20px;
@@ -334,6 +335,14 @@ button {
 }
 
 .caja-5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-6{
   display: flex;
   justify-content: center;
   align-items: center;
