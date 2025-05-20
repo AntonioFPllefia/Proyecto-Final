@@ -115,7 +115,39 @@ iframe{
 .Post-Hardcore{
   display: flex;
   flex-direction: column;
+  align-items: center;
+}
+
+.Punk-LATAM{
+  display: flex;
+  text-align: center;
+}
+
+.Punk-LATAM p{
+  display: flex;
   justify-content: center;
+  width: 500px;
+}
+
+.img-vid{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
+
+.img-vid img{
+  width: 500px;
+}
+
+.img-vid iframe{
+  padding-bottom: 100px;
+}
+
+.Hardcore-LATAM{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .text-RRV{
@@ -359,6 +391,22 @@ iframe{
 }
 
 .caja-8{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-9{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-10{
   display: flex;
   justify-content: center;
   align-items: center;
