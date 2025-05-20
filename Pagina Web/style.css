@@ -200,6 +200,26 @@ iframe {
   justify-content: center;
 }
 
+.Movimientos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Movimientos-Ejemplos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Movimientos p {
+  width: 500px;
+}
+
+.Movimientos-Ejemplos p {
+  width: 500px;
+}
+
 .generos-punk button {
   padding: 15px;
   width: 100px;
@@ -513,7 +533,7 @@ iframe {
   gap: 20px;
 }
 
-.caja-16{
+.caja-16 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -521,7 +541,15 @@ iframe {
   gap: 20px;
 }
 
-.caja-17{
+.caja-17 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-18 {
   display: flex;
   justify-content: center;
   align-items: center;
