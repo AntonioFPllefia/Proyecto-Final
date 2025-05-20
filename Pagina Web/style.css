@@ -6,36 +6,35 @@ body {
   padding: 0;
 }
 
-main{
+main {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-img{
+img {
   display: flex;
   justify-content: center;
 }
 
-iframe{
+iframe {
   display: flex;
   justify-content: center;
 }
 
-.container{
-    background-color: black;
-    color: white;
-  }
+.container {
+  background-color: black;
+  color: white;
+}
 
-  .nav-container{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-  
-  }
+.nav-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
 
-.main p{
+.main p {
   display: flex;
   justify-content: start;
   padding-left: 250px;
@@ -49,154 +48,159 @@ iframe{
   align-items: center;
 }
 
-.explicacion-movida h1{
+.explicacion-movida h1 {
   display: flex;
   justify-content: center;
 }
 
-.explicacion-movida p{
+.explicacion-movida p {
   width: 300px;
   padding-left: 350px;
 }
 
-.explicacion-movida img{
+.explicacion-movida img {
   width: 450px;
   padding-left: 750px;
 }
 
-.Explicacion-RRV h1{
+.Explicacion-RRV h1 {
   display: flex;
   justify-content: center;
 }
 
-.Explicacion-RRV img{
+.Explicacion-RRV img {
   width: 450px;
   padding-left: 755px;
 }
 
-.Explicacion-1{
+.Explicacion-1 {
   display: flex;
   text-align: start;
   padding-left: 50px;
   width: 250px;
 }
 
-.Punk-USA{
+.Punk-USA {
   display: flex;
   text-align: start;
   width: 250px;
   padding-left: 50px;
 }
 
-.Hardcore-Punk{
+.Hardcore-Punk {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.Ska-Punk{
+.Ska-Punk {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.Pop-Punk{
+.Pop-Punk {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.Straight-Edge{
+.Straight-Edge {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.Post-Hardcore{
+.Post-Hardcore {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.Punk-LATAM{
+.Punk-LATAM {
   display: flex;
   text-align: center;
 }
 
-.Punk-LATAM p{
+.Punk-LATAM p {
   display: flex;
   justify-content: center;
   width: 500px;
 }
 
-.img-vid{
+.img-vid {
   display: flex;
   flex-direction: row;
   align-items: center;
   gap: 30px;
 }
 
-.img-vid img{
+.img-vid img {
   width: 500px;
 }
 
-.img-vid iframe{
+.img-vid iframe {
   padding-bottom: 100px;
 }
 
-.Hardcore-LATAM{
+.Hardcore-LATAM {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.Ska-Latam{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.Explicacion-Punk{
+.Ska-Latam {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.Explicacion-Punk p{
+.Explicacion-Punk {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Explicacion-Punk p {
   width: 500px;
 }
 
-.Explicacion-Punk img{
+.Explicacion-Punk img {
   width: 500px;
 }
 
-.Explicacion-Metal{
+.Explicacion-Metal {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.generos-punk{
+.generos-punk {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 30px;
 }
 
-.generos-metal{
+.generos-metal {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.generos-metal p{
-    width: 400px;
-}
-
-.generos-metal img{
+.generos-metal p {
   width: 400px;
 }
 
-.generos-punk button{
+.generos-metal img {
+  width: 400px;
+}
+
+.bandas-metal h3 {
+  display: flex;
+  justify-content: center;
+}
+
+.generos-punk button {
   padding: 15px;
   width: 100px;
   margin-bottom: 20px;
@@ -205,23 +209,23 @@ iframe{
   color: white;
 }
 
-.text-RRV{
+.text-RRV {
   width: 250px;
   padding-left: 350px;
 }
 
-.text-2{
+.text-2 {
   width: 250px;
   padding-left: 1350px;
 }
 
-.bandas-figuras{
+.bandas-figuras {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.titulo-bandas{
+.titulo-bandas {
   display: flex;
   justify-content: center;
 }
@@ -255,12 +259,12 @@ iframe{
   padding: 150px;
 }
 
-.container-2{
+.container-2 {
   display: flex;
   justify-content: center;
 }
 
-.Explicacion-Movida h1{
+.Explicacion-Movida h1 {
   display: flex;
   justify-content: center;
 }
@@ -271,7 +275,7 @@ iframe{
   justify-content: center;
 }
 
-.img-1{
+.img-1 {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -355,16 +359,16 @@ iframe{
   background-color: azure;
 }
 
-.Lista-3 nav ul li:hover{
+.Lista-3 nav ul li:hover {
   background-color: burlywood;
   transition-duration: 0, 3s;
 }
 
-.Lista-3 nav ul li a{
+.Lista-3 nav ul li a {
   text-decoration: none;
 }
 
-.Lista-4 nav ul{
+.Lista-4 nav ul {
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -372,7 +376,7 @@ iframe{
   width: 150px;
 }
 
-.Lista-4 nav ul li{
+.Lista-4 nav ul li {
   color: white;
   list-style: none;
   width: 100%;
@@ -380,16 +384,16 @@ iframe{
   background-color: azure;
 }
 
-.Lista-4 nav ul li:hover{
+.Lista-4 nav ul li:hover {
   background: burlywood;
   transition-duration: 0, 3s;
 }
 
-.Lista-4 nav ul li a{
+.Lista-4 nav ul li a {
   text-decoration: none;
 }
 
-.caja-1{
+.caja-1 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -397,7 +401,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-2{
+.caja-2 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -405,7 +409,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-3{
+.caja-3 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -413,7 +417,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-4{
+.caja-4 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -421,7 +425,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-5{
+.caja-5 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -429,7 +433,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-6{
+.caja-6 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -437,7 +441,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-7{
+.caja-7 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -445,7 +449,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-8{
+.caja-8 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -453,7 +457,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-9{
+.caja-9 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -461,7 +465,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-10{
+.caja-10 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -469,7 +473,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-11{
+.caja-11 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -477,23 +481,7 @@ iframe{
   gap: 20px;
 }
 
-.caja-12{
-  display:  flex;
-  justify-content: center;
-  align-items: center;
-  height: 50vh;
-  gap: 20px;
-}
-
-.caja-13{
-  display:  flex;
-  justify-content: center;
-  align-items: center;
-  height: 50vh;
-  gap: 20px;
-}
-
-.seccion-1{
+.caja-12 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -501,57 +489,87 @@ iframe{
   gap: 20px;
 }
 
-.caja{
+.caja-13 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-14 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja-15 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.seccion-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px;
+}
+
+.caja {
   width: 250px;
   height: 250px;
-  box-shadow: -2px 2px 19px 0px rgba(0,0,0,0.75);
+  box-shadow: -2px 2px 19px 0px rgba(0, 0, 0, 0.75);
   color: black;
-  display: flex; 
-  flex-direction: column; 
-  justify-content: flex-end; 
-  align-items: center; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
   background-color: white;
 }
 
-.caja img{
+.caja img {
   width: 190px;
 }
 
-.cajita-main{
+.cajita-main {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 50vh;
   gap: 20px;
-
 }
 
-.cajita-main2{
+.cajita-main2 {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 10vh;
   gap: 20px;
-
 }
 
 .cajita-magica {
   width: 250px;
   height: 250px;
-  box-shadow: -2px 2px 19px 0px rgba(0,0,0,0.75);
+  box-shadow: -2px 2px 19px 0px rgba(0, 0, 0, 0.75);
   color: black;
-  display: flex; 
-  flex-direction: column; 
-  justify-content: flex-end; 
-  align-items: center; 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
   background-color: white;
 }
 
-.cajita-magica img{
+.cajita-magica img {
   width: 200px;
 }
 
-.texto-magico{
+.texto-magico {
   text-align: center;
   font-size: 20px;
   flex-direction: column;
