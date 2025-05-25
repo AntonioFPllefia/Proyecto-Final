@@ -557,6 +557,22 @@ iframe {
   gap: 20px;
 }
 
+.caja-19{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px
+}
+
+.caja-20{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  gap: 20px
+}
+
 .seccion-1 {
   display: flex;
   justify-content: center;
