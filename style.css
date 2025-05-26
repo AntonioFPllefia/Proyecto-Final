@@ -17,10 +17,6 @@ img {
   justify-content: center;
 }
 
-iframe {
-  display: flex;
-  justify-content: center;
-}
 
 .container {
   background-color: black;
